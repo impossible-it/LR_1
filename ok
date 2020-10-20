@@ -1,0 +1,30 @@
+[33mcommit cc233340740d10781ebae175a865f59e9629b744[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mversion_2[m[33m)[m
+Merge: be114eb a2abe86
+Author: impossible-it <talezfaq@gmail.com>
+Date:   Tue Oct 20 16:48:41 2020 +0400
+
+    Merge branch 'master' of https://github.com/impossible-it/LR_1 into master
+
+[33mcommit be114eb5844422f0977d540de4f980c25ff821d4[m
+Author: impossible-it <talezfaq@gmail.com>
+Date:   Tue Oct 20 15:56:42 2020 +0400
+
+    testing1
+
+[33mcommit 7ab2b2fde208dceeaa953c175e081b8faf8c3061[m
+Author: impossible-it <talezfaq@gmail.com>
+Date:   Tue Oct 20 15:26:09 2020 +0400
+
+    first commit
+
+[33mcommit a2abe86b296a5a7e9bbf71d46272d192e64f6d98[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: impossible-it <72383366+impossible-it@users.noreply.github.com>
+Date:   Mon Oct 5 14:14:04 2020 +0400
+
+    Update README.md
+
+[33mcommit 7f94c4e9ae13e577b51efe1df6ea142d03f254ee[m
+Author: impossible-it <talezfaq@gmail.com>
+Date:   Mon Oct 5 13:54:36 2020 +0400
+
+    first commit
